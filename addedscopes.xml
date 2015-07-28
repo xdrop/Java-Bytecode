@@ -1,0 +1,154 @@
+		<dict>
+			<key>name</key>
+			<string>Bytecode - new Keyword</string>
+			<key>scope</key>
+			<string>bytecode.new</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66a9ec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bytecode - Java Keyword</string>
+			<key>scope</key>
+			<string>bytecode.javakeyword</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66a9ec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bytecode - return</string>
+			<key>scope</key>
+			<string>bytecode.return</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66a9ec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bytecode - Field accessor</string>
+			<key>scope</key>
+			<string>bytecode.fieldaccessor</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66a9ec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bytecode - Field store</string>
+			<key>scope</key>
+			<string>bytecode.fieldstore</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66a9ec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bytecode - Constant</string>
+			<key>scope</key>
+			<string>bytecode.constant</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66a9ec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bytecode - Load field</string>
+			<key>scope</key>
+			<string>bytecode.load</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66a9ec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bytecode - Invoke</string>
+			<key>scope</key>
+			<string>bytecode.invoke</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66a9ec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bytecode - NOP</string>
+			<key>scope</key>
+			<string>bytecode.nop</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66a9ec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bytecode - Line number</string>
+			<key>scope</key>
+			<string>bytecode.linenumber</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66a9ec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bytecode - OP code argument</string>
+			<key>scope</key>
+			<string>bytecode.opcodearg</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66a9ec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bytecode - (JBE) Function name</string>
+			<key>scope</key>
+			<string>bytecode.functionname</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66a9ec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bytecode - (JBE) Parameter </string>
+			<key>scope</key>
+			<string>bytecode.parameter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66a9ec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bytecode - (JBE) Return type</string>
+			<key>scope</key>
+			<string>bytecode.returntype</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66a9ec</string>
+			</dict>
+		</dict>
