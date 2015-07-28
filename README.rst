@@ -13,23 +13,23 @@ Currently supported:
 
 
 Javap (Java class file disassembler)
-**************************************
+======================================
 
 .. image:: http://i.imgur.com/QbtbKpg.png
 
 
 JBE (Java Bytecode Editor)
-*****************************************
+===========================
 .. image:: http://i.imgur.com/uAXOxfy.png
 
 
 Version
-=======
+********
 1.0.2
 
 
 Installation
-=============
+*************
 
 
 #. Having installed `Package Control <https://packagecontrol.io/installation>`_ access the ``Command Pallete`` (`Ctrl+Shift+P`), select ``Install package`` and then select ``Java Bytecode``.
@@ -48,7 +48,7 @@ Installation
 
 
 Custom syntax highlighting
-===========================
+***************************
 The package comes with support for custom syntax highlighting by including the following custom scopes:
 
 * ``return`` and similar keywords
@@ -64,7 +64,7 @@ The package comes with support for custom syntax highlighting by including the f
 **(!)** To use custom syntax coloring you need to edit the theme you use to provide support for these custom scopes.
 
 Instructions
-************
+=============
 #. Obtain the ``.tmTheme`` file of the color scheme you are using and wish to edit
 #. Open it in a text editor
 #. Get the ``addedscopes.xml`` file from this package directory
