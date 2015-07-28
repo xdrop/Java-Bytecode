@@ -18,14 +18,14 @@ Javap (Java class file disassembler)
 .. image:: http://i.imgur.com/QbtbKpg.png
 
 
-JBE(Java class file editor)
+JBE (Java class file editor)
 *****************************************
 .. image:: http://i.imgur.com/uAXOxfy.png
 
 
 Version
 =======
-1.0.1
+1.0.2
 
 
 Installation
