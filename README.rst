@@ -8,8 +8,8 @@ editor (*ST2/ST3*).
 
 Currently supported:
 
-  - Javap output
-  - JBE class editor output
+- `Javap <http://docs.oracle.com/javase/7/docs/technotes/tools/windows/javap.html>`_ output
+- `Java Bytecode Editor <http://set.ee/jbe/>`_ output
 
 
 Javap (Java class file disassembler)
@@ -18,7 +18,7 @@ Javap (Java class file disassembler)
 .. image:: http://i.imgur.com/QbtbKpg.png
 
 
-JBE (Java class file editor)
+JBE (Java Bytecode Editor)
 *****************************************
 .. image:: http://i.imgur.com/uAXOxfy.png
 
