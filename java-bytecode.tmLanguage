@@ -114,7 +114,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>\b(\w+(?:\/\w+)+)(?:\(([\w\/]*);?\))?([^;]*)</string>
+			<string>\b(\w+(?:\/[\w\&lt;\&gt;]+)+)(?:\(([\w\/]*);?\))?([^;]*)</string>
 			<key>name</key>
 			<string>classmatcher</string>
 		</dict>
