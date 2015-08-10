@@ -5,7 +5,7 @@ Sublime Text Java Bytecode (Syntax highlighting)
 Overview
 ========
 
-This is a package for introducing Java bytecode syntax highlighting to the `SublimeText  <http://www.sublimetext.com/>`_
+This is a package for introducing Java bytecode syntax highlighting to the `Sublime Text  <http://www.sublimetext.com/>`_
 editor (*ST2/ST3*). 
 
 Currently supported:
@@ -30,7 +30,7 @@ JBE (Java Bytecode Editor)
 Version
 =======
 
-1.0.3
+1.0.4
 
 Installation
 =============
