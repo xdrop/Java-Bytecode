@@ -2,6 +2,9 @@
 Sublime Text Java Bytecode (Syntax highlighting)
 ================================================
 
+.. image:: https://img.shields.io/badge/package-control-blue.svg?style=plastic
+   :target: https://packagecontrol.io/packages/Java%20Bytecode
+
 Overview
 ========
 
