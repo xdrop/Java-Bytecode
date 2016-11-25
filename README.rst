@@ -85,7 +85,7 @@ Instructions
 License:
 ==========
 
-Copyright (c) 2015 xdrop
+Copyright (c) 2015-2016 xdrop
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
