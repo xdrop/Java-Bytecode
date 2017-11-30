@@ -33,7 +33,7 @@ JBE (Java Bytecode Editor)
 Version
 =======
 
-1.0.4
+1.0.5
 
 Installation
 =============
