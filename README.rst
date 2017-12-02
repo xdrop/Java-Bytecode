@@ -33,7 +33,7 @@ JBE (Java Bytecode Editor)
 Version
 =======
 
-1.0.4
+1.0.5
 
 Installation
 =============
@@ -41,7 +41,7 @@ Installation
 
 #. Having installed `Package Control <https://packagecontrol.io/installation>`_ access the ``Command Pallete`` (`Ctrl+Shift+P`), select ``Install package`` and then select ``Java Bytecode``.
 
-#. In the bottom right corner click and select **Java Bytecode > Default** (or `Custom` if you've set up a custom color scheme)
+#. In the bottom right corner click and select **Java Bytecode > Java Bytecode (Default)** (or `Custom` if you've set up a custom color scheme)
 
 
 *Alternatively* if you have not installed Package control (which I highly recommend):
@@ -79,13 +79,13 @@ Instructions
 #. Load your new ``.tmTheme`` file into `tmTheme Editor  <https://github.com/aziz/tmTheme-Editor>`_ and customize it to your needs.
 #. Download it and add it to your packages directory.
 #. Go to **Preferences | Color Scheme** and select it.
-#. Set **Java Bytecode | Custom highlighting** as your language.
+#. Set **Java Bytecode (Custom highlighting)** as your language.
 
 
 License:
 ==========
 
-Copyright (c) 2015-2016 xdrop
+Copyright (c) 2015-2017 xdrop
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

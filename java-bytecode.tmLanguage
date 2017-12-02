@@ -7,7 +7,7 @@
 		<string>javap</string>
 	</array>
 	<key>name</key>
-	<string>Default</string>
+	<string>Java Bytecode (Default)</string>
 	<key>patterns</key>
 	<array>
 		<dict>
