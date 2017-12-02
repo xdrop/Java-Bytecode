@@ -7,7 +7,7 @@
 		<string></string>
 	</array>
 	<key>name</key>
-	<string>Custom highlighting</string>
+	<string>Java Bytecode (Custom highlighting)</string>
 	<key>patterns</key>
 	<array>
 		<dict>
